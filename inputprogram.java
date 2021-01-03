@@ -1,5 +1,5 @@
 import java.util.Scanner;
-//test
+
 class inputprogram {
     public static void main(String[] args){
         // System.out.println("Joep");
@@ -8,7 +8,7 @@ class inputprogram {
         System.out.print("Enter your first name : ");
         String firstname = input.next();
 
-        System.out.print("Enter your last name : ");
+        System.out.print("Enter your lat name : ");
         String lastname = input.next();
 
         System.out.println("Your full name is "+firstname+" "+lastname);
