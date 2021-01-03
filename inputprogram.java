@@ -8,7 +8,7 @@ class inputprogram {
         System.out.print("Enter your first name : ");
         String firstname = input.next();
 
-        System.out.print("Enter your lat name : ");
+        System.out.print("Enter your last name : ");
         String lastname = input.next();
 
         System.out.println("Your full name is "+firstname+" "+lastname);
